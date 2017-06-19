@@ -1,0 +1,19 @@
+{
+    "name": "buzz/MonitorRabbitMQ",
+    "description": "rabbitMQ 队列监控",
+    "license": "MIT",
+    "keywords": ["rabbitMq", "laravel", "sdk"],
+    "authors": [
+        {
+            "name": "buzz",
+            "email": "mlei1341@gmail.com"
+        }
+    ],
+	"require": {},
+    "minimum-stability": "dev",
+	"autoload": {
+		"psr-4": {
+			"buzzrabbitMQ\\": "src/"
+		}
+	}
+}
