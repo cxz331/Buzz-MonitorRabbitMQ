@@ -1,11 +1,11 @@
 {
-    "name": "buzz/monitor-rabbit-mq",
+    "name": "bestbuzz/monitor-rabbit-mq",
     "description": "rabbitMQ 队列监控",
     "license": "MIT",
     "keywords": ["rabbitMq", "laravel", "sdk"],
     "authors": [
         {
-            "name": "buzz",
+            "name": "leiming",
             "email": "mlei1341@gmail.com"
         }
     ],
