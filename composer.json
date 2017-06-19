@@ -1,5 +1,5 @@
 {
-    "name": "buzz/MonitorRabbitMQ",
+    "name": "buzz/monitor-rabbit-mq",
     "description": "rabbitMQ 队列监控",
     "license": "MIT",
     "keywords": ["rabbitMq", "laravel", "sdk"],
